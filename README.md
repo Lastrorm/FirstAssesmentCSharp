@@ -13,4 +13,4 @@ Utilización del programa
 
 - Elegir en el menú de qué deporte quieres el equipamiento
 - Introducir un precio para el equipamiento
-- Introducir el atributo adicional por cada tipo de equipamiento: ```tallaFutbol```, ```tallaBasketball``` y ````materialBasketball``` o ```pesoRugby```
+- Introducir el atributo adicional por cada tipo de equipamiento: ```tallaFutbol```, ```tallaBasketball``` y ```materialBasketball``` o ```pesoRugby```
