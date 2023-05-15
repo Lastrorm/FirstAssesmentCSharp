@@ -1,0 +1,8 @@
+# Carpeta de entornos virtuales
+.vs/
+bin/
+obj/
+
+# Archivos de configuración locales
+*.sln
+.sln
