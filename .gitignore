@@ -1,5 +1,6 @@
 # Carpeta de entornos virtuales
 .vs/
+.vscode/
 bin/
 obj/
 
